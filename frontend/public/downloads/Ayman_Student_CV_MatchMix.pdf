@@ -1,0 +1,74 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 4 0 R >> >> /Contents 5 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Length 955 >>
+stream
+BT
+/F1 11 Tf
+50 770 Td
+(AYMAN HADDAD - COMPUTER SCIENCE STUDENT) Tj
+0 -15 Td
+(Email: ayman.haddad@example.com | Phone: +962795551234 | Amman Jordan) Tj
+0 -15 Td
+0 -15 Td
+(PROFESSIONAL SUMMARY) Tj
+0 -15 Td
+(Final year Computer Science student focused on web development and APIs.) Tj
+0 -15 Td
+0 -15 Td
+(TECHNICAL SKILLS) Tj
+0 -15 Td
+(Frontend: React JavaScript HTML CSS Responsive UI) Tj
+0 -15 Td
+(Backend: Python FastAPI REST APIs PostgreSQL SQLAlchemy) Tj
+0 -15 Td
+(Data: SQL Excel Power BI basic) Tj
+0 -15 Td
+(Mobile: Flutter Dart Firebase basic) Tj
+0 -15 Td
+0 -15 Td
+(PROJECT EXPERIENCE) Tj
+0 -15 Td
+(1 Internship Portal React plus FastAPI) Tj
+0 -15 Td
+(2 API Services for Student Analytics) Tj
+0 -15 Td
+(3 Business Data Dashboard with SQL and Power BI) Tj
+0 -15 Td
+0 -15 Td
+(EDUCATION) Tj
+0 -15 Td
+(BSc Computer Science Yarmouk University Expected 2026) Tj
+0 -15 Td
+0 -15 Td
+(LANGUAGES) Tj
+0 -15 Td
+(Arabic Native English Professional) Tj
+0 -15 Td
+ET
+endstream
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000000311 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+1316
+%%EOF

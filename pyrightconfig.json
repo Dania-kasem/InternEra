@@ -1,0 +1,10 @@
+{
+  "typeCheckingMode": "off",
+  "reportMissingImports": false,
+  "executionEnvironments": [
+    {
+      "root": "./backend/app",
+      "extraPaths": ["./backend", "./backend/app"]
+    }
+  ]
+}
